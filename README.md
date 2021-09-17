@@ -548,10 +548,11 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | - | :-: | - | :-: | - | - |
 | [top](#animals--nature) | :snail: | `:snail:` | :butterfly: | `:butterfly:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :bug: | `:bug:` | :ant: | `:ant:` | [top](#table-of-contents) |
-| [top](#animals--nature) | :bee: | `:bee:` <br /> `:honeybee:` | :beetle: | `:beetle:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :lady_beetle: | `:lady_beetle:` | :beetle: | `:beetle:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :cricket: | `:cricket:` | :spider: | `:spider:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :spider_web: | `:spider_web:` | :scorpion: | `:scorpion:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :mosquito: | `:mosquito:` | :microbe: | `:microbe:` | [top](#table-of-contents) |
+| [top](#animals--nature) | :bee: | `:bee:` <br /> `:honeybee:` |  |  | [top](#table-of-contents) |
 
 #### Plant Flower
 
